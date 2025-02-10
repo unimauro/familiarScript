@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+env/
+venv/
+.env
+
+# Ignorar archivos de caché y temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar videos descargados
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+
+# Ignorar logs y archivos de configuración locales
+logs/
+*.log
+
